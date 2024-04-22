@@ -1,0 +1,3 @@
+/Users/otsosalmenpera/CLionProjects/pokeri/cmake-build-debug/CMakeFiles/pokeri.dir
+/Users/otsosalmenpera/CLionProjects/pokeri/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/otsosalmenpera/CLionProjects/pokeri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
